@@ -1,0 +1,2 @@
+# ImagenesPowerBi
+Soporte de imagenes
